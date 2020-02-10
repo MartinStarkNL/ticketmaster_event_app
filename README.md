@@ -15,7 +15,7 @@ An app for displaying events provided from Ticketmaster API V2.
 
 1. Clone or download the repository
 2. Open file '/lib/config.dart'
-3. Enter your token under API_KEY and save it
+3. Enter your previously generted api key and save file
 4. Open pubspec.yaml file
 5. Resolve it by either pressing the highlighted button or by running 'flutter pub get' command in the terminal.
 6. Start an iOS Simulator and Android emulator
